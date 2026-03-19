@@ -1,0 +1,10 @@
+gfx/env/night2bk.tga
+gfx/env/night2dn.tga
+gfx/env/night2ft.tga
+gfx/env/night2lf.tga
+gfx/env/night2rt.tga
+gfx/env/night2up.tga
+models/models/3dm_beach.mdl
+models/models/cs_paris_umbrella.mdl
+models/models/tree8a.mdl
+sound/waterrun.wav
