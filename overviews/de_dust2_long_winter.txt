@@ -1,0 +1,14 @@
+// overview description file for dust2_long_winter.bsp
+
+global 
+{
+	ZOOM	2.01
+	ORIGIN	218    -243    -209
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dust2_long_winter.bmp"
+	HEIGHT	-209
+}
