@@ -1,0 +1,14 @@
+//overview description file for hns_4ever.bsp
+
+global
+{
+	ZOOM	1.63
+	ORIGIN	476.56         128	       448
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/hns_4ever.tga"
+	HEIGHT	-897
+} 
