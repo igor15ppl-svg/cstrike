@@ -1,0 +1,14 @@
+// overview description file for ze_project.bsp
+
+global 
+{
+	ZOOM	1.22
+	ORIGIN	316.50	501.50	32.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ze_project.bmp"
+	HEIGHT	-487.00
+}
