@@ -1,0 +1,14 @@
+// overview description file for ze_train_back_lg.bsp
+
+global 
+{
+	ZOOM	0.82
+	ORIGIN	227.39  -269.37  224	
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ze_train_back_lg.bmp"
+	HEIGHT	-129
+}
