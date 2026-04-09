@@ -1,0 +1,14 @@
+// overview description file for zm_escapeoneme.bsp
+
+global 
+{
+	ZOOM	1.19
+	ORIGIN 	1024.00  -125.83  745.00
+	ROTATED 	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_escapeoneme.tga"
+	HEIGHT	-257.00
+}
