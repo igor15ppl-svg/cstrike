@@ -1,0 +1,5 @@
+MAPA FEITO POR ALF
+
+www.alfmaps.k6.com.br
+
+sv_downloadurl "http://alfmaps.csmal.com.br/cstrike"   Para otimizar o download do mapa (server deve usar este comando!)
