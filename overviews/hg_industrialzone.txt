@@ -1,0 +1,11 @@
+global
+{
+	ZOOM 0.90
+	ORIGIN 1.98 26.47 184.00
+	ROTATED 0
+}
+layer
+{
+	IMAGE "overviews/hg_industrialzone.bmp"
+	HEIGHT -1761.00
+}
