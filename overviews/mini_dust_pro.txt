@@ -1,0 +1,16 @@
+// overview description file for mini_dust_pro.bsp
+// made with Overview Description Generator 0.1beta - by --- Zest ---
+
+global
+{
+	ZOOM	3.45
+	ORIGIN	0.00	64.00	-64
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/mini_dust_pro.bmp"
+	HEIGHT	-64
+}
+

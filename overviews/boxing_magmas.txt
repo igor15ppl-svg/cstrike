@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	3.84
+	ORIGIN	64	0	-163
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/boxing_magmas.bmp"
+	HEIGHT	-163
+}
