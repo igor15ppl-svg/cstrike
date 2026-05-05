@@ -1,0 +1,11 @@
+gfx/env/magmas4up.tga
+gfx/env/magmas4dn.tga
+gfx/env/magmas4lf.tga
+gfx/env/magmas4rt.tga
+gfx/env/magmas4ft.tga
+gfx/env/magmas4bk.tga
+sound/megalodon/fond-csm.wav
+sprites/megalodon/megalodon.spr
+sound/megalodon/coin.wav
+overviews/boxing_magmas.bmp
+overviews/boxing_magmas.txt
